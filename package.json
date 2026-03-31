@@ -73,7 +73,7 @@
     "@safe-global/safe-ethers-adapters": "^0.1.0-alpha.19",
     "@walletconnect/react-native-dapp": "^1.1.0",
     "@web3modal/wagmi": "3.5.7",
-    "axios": "^1.6.0",
+    "axios": "1.14.0",
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.2",
     "ethers": "^6.11.0",
